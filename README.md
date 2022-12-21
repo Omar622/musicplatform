@@ -1,0 +1,2 @@
+# musicplatform
+Django educational project
